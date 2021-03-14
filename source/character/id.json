@@ -1,0 +1,890 @@
+{
+    "杏奈": {
+        "new_name": "杏奈",
+        "name": "杏奈",
+        "id": 1,
+        "origin_star": 3
+    },
+    "真步": {
+        "new_name": "真步",
+        "name": "真步",
+        "id": 2,
+        "origin_star": 3
+    },
+    "璃乃": {
+        "new_name": "璃乃",
+        "name": "璃乃",
+        "id": 3,
+        "origin_star": 3
+    },
+    "初音": {
+        "new_name": "初音",
+        "name": "初音",
+        "id": 4,
+        "origin_star": 3
+    },
+    "霞": {
+        "new_name": "霞",
+        "name": "霞",
+        "id": 5,
+        "origin_star": 3
+    },
+    "伊緒": {
+        "new_name": "伊緒",
+        "name": "伊緒",
+        "id": 6,
+        "origin_star": 3
+    },
+    "咲戀": {
+        "new_name": "咲戀",
+        "name": "咲戀",
+        "id": 7,
+        "origin_star": 3
+    },
+    "望": {
+        "new_name": "望",
+        "name": "望",
+        "id": 8,
+        "origin_star": 3
+    },
+    "妮諾": {
+        "new_name": "妮諾",
+        "name": "妮諾",
+        "id": 9,
+        "origin_star": 3
+    },
+    "秋乃": {
+        "new_name": "秋乃",
+        "name": "秋乃",
+        "id": 10,
+        "origin_star": 3
+    },
+    "鏡華": {
+        "new_name": "鏡華",
+        "name": "鏡華",
+        "id": 11,
+        "origin_star": 3
+    },
+    "智": {
+        "new_name": "智",
+        "name": "智",
+        "id": 12,
+        "origin_star": 3
+    },
+    "真琴": {
+        "new_name": "真琴",
+        "name": "真琴",
+        "id": 13,
+        "origin_star": 3
+    },
+    "伊莉亞": {
+        "new_name": "伊莉亞",
+        "name": "伊莉亞",
+        "id": 14,
+        "origin_star": 3
+    },
+    "純": {
+        "new_name": "純",
+        "name": "純",
+        "id": 15,
+        "origin_star": 3
+    },
+    "靜流": {
+        "new_name": "靜流",
+        "name": "靜流",
+        "id": 16,
+        "origin_star": 3
+    },
+    "莫妮卡": {
+        "new_name": "莫妮卡",
+        "name": "莫妮卡",
+        "id": 17,
+        "origin_star": 3
+    },
+    "流夏": {
+        "new_name": "流夏",
+        "name": "流夏",
+        "id": 18,
+        "origin_star": 3
+    },
+    "吉塔": {
+        "new_name": "吉塔",
+        "name": "吉塔",
+        "id": 19,
+        "origin_star": 3
+    },
+    "矛依未": {
+        "new_name": "矛依未",
+        "name": "矛依未",
+        "id": 20,
+        "origin_star": 3
+    },
+    "亞里莎": {
+        "new_name": "亞里莎",
+        "name": "亞里莎",
+        "id": 21,
+        "origin_star": 3
+    },
+    "シェフィ": {
+        "new_name": "シェフィ",
+        "name": "シェフィ",
+        "id": 22,
+        "origin_star": 3
+    },
+    "嘉夜": {
+        "new_name": "嘉夜",
+        "name": "嘉夜",
+        "id": 23,
+        "origin_star": 3
+    },
+    "祈梨": {
+        "new_name": "祈梨",
+        "name": "祈梨",
+        "id": 24,
+        "origin_star": 3
+    },
+    "拉比林斯達": {
+        "new_name": "拉比林斯達",
+        "name": "拉比林斯達",
+        "id": 25,
+        "origin_star": 3
+    },
+    "似似花": {
+        "new_name": "似似花",
+        "name": "似似花",
+        "id": 26,
+        "origin_star": 3
+    },
+    "克莉絲提娜": {
+        "new_name": "克莉絲提娜",
+        "name": "克莉絲提娜",
+        "id": 27,
+        "origin_star": 3
+    },
+    "貪吃佩可（夏日）": {
+        "new_name": "貪吃佩可（夏日）",
+        "name": "貪吃佩可（夏日）",
+        "id": 28,
+        "origin_star": 3
+    },
+    "鈴莓（夏日）": {
+        "new_name": "鈴莓（夏日）",
+        "name": "鈴莓（夏日）",
+        "id": 29,
+        "origin_star": 3
+    },
+    "凱留（夏日）": {
+        "new_name": "凱留（夏日）",
+        "name": "凱留（夏日）",
+        "id": 30,
+        "origin_star": 3
+    },
+    "珠希（夏日）": {
+        "new_name": "珠希（夏日）",
+        "name": "珠希（夏日）",
+        "id": 31,
+        "origin_star": 3
+    },
+    "忍（萬聖節）": {
+        "new_name": "忍（萬聖節）",
+        "name": "忍（萬聖節）",
+        "id": 32,
+        "origin_star": 3
+    },
+    "美咲（萬聖節）": {
+        "new_name": "美咲（萬聖節）",
+        "name": "美咲（萬聖節）",
+        "id": 33,
+        "origin_star": 3
+    },
+    "千歌（聖誕節）": {
+        "new_name": "千歌（聖誕節）",
+        "name": "千歌（聖誕節）",
+        "id": 34,
+        "origin_star": 3
+    },
+    "綾音（聖誕節）": {
+        "new_name": "綾音（聖誕節）",
+        "name": "綾音（聖誕節）",
+        "id": 35,
+        "origin_star": 3
+    },
+    "日和（新年）": {
+        "new_name": "日和（新年）",
+        "name": "日和（新年）",
+        "id": 36,
+        "origin_star": 3
+    },
+    "優衣（新年）": {
+        "new_name": "優衣（新年）",
+        "name": "優衣（新年）",
+        "id": 37,
+        "origin_star": 3
+    },
+    "靜流（情人節）": {
+        "new_name": "靜流（情人節）",
+        "name": "靜流（情人節）",
+        "id": 38,
+        "origin_star": 3
+    },
+    "安": {
+        "new_name": "安",
+        "name": "安",
+        "id": 39,
+        "origin_star": 3
+    },
+    "古蕾婭": {
+        "new_name": "古蕾婭",
+        "name": "古蕾婭",
+        "id": 40,
+        "origin_star": 3
+    },
+    "空花（大江戶）": {
+        "new_name": "空花（大江戶）",
+        "name": "空花（大江戶）",
+        "id": 41,
+        "origin_star": 3
+    },
+    "妮諾（大江戶）": {
+        "new_name": "妮諾（大江戶）",
+        "name": "妮諾（大江戶）",
+        "id": 42,
+        "origin_star": 3
+    },
+    "雷姆": {
+        "new_name": "雷姆",
+        "name": "雷姆",
+        "id": 43,
+        "origin_star": 3
+    },
+    "愛蜜莉雅": {
+        "new_name": "愛蜜莉雅",
+        "name": "愛蜜莉雅",
+        "id": 44,
+        "origin_star": 3
+    },
+    "鈴奈（夏日）": {
+        "new_name": "鈴奈（夏日）",
+        "name": "鈴奈（夏日）",
+        "id": 45,
+        "origin_star": 3
+    },
+    "咲戀（夏日）": {
+        "new_name": "咲戀（夏日）",
+        "name": "咲戀（夏日）",
+        "id": 46,
+        "origin_star": 3
+    },
+    "真琴（夏日）": {
+        "new_name": "真琴（夏日）",
+        "name": "真琴（夏日）",
+        "id": 47,
+        "origin_star": 3
+    },
+    "真步（夏日）": {
+        "new_name": "真步（夏日）",
+        "name": "真步（夏日）",
+        "id": 48,
+        "origin_star": 3
+    },
+    "碧（插班生）": {
+        "new_name": "碧（插班生）",
+        "name": "碧（插班生）",
+        "id": 49,
+        "origin_star": 3
+    },
+    "克蘿依": {
+        "new_name": "克蘿依",
+        "name": "克蘿依",
+        "id": 50,
+        "origin_star": 3
+    },
+    "琪愛兒": {
+        "new_name": "琪愛兒",
+        "name": "琪愛兒",
+        "id": 51,
+        "origin_star": 3
+    },
+    "優妮": {
+        "new_name": "優妮",
+        "name": "優妮",
+        "id": 52,
+        "origin_star": 3
+    },
+    "鏡華（萬聖節）": {
+        "new_name": "鏡華（萬聖節）",
+        "name": "鏡華（萬聖節）",
+        "id": 53,
+        "origin_star": 3
+    },
+    "美美（萬聖節）": {
+        "new_name": "美美（萬聖節）",
+        "name": "美美（萬聖節）",
+        "id": 54,
+        "origin_star": 3
+    },
+    "露娜": {
+        "new_name": "露娜",
+        "name": "露娜",
+        "id": 55,
+        "origin_star": 3
+    },
+    "克莉絲提娜（聖誕節）": {
+        "new_name": "克莉絲提娜（聖誕節）",
+        "name": "克莉絲提娜（聖誕節）",
+        "id": 56,
+        "origin_star": 3
+    },
+    "伊莉亞（聖誕節）": {
+        "new_name": "伊莉亞（聖誕節）",
+        "name": "伊莉亞（聖誕節）",
+        "id": 57,
+        "origin_star": 3
+    },
+    "貪吃佩可（新年）": {
+        "new_name": "貪吃佩可（新年）",
+        "name": "貪吃佩可（新年）",
+        "id": 58,
+        "origin_star": 3
+    },
+    "可可蘿（新年）": {
+        "new_name": "可可蘿（新年）",
+        "name": "可可蘿（新年）",
+        "id": 59,
+        "origin_star": 3
+    },
+    "凱留（新年）": {
+        "new_name": "凱留（新年）",
+        "name": "凱留（新年）",
+        "id": 60,
+        "origin_star": 3
+    },
+    "霞（魔法少女）": {
+        "new_name": "霞（魔法少女）",
+        "name": "霞（魔法少女）",
+        "id": 61,
+        "origin_star": 3
+    },
+    "卯月（NGs）": {
+        "new_name": "卯月（NGs）",
+        "name": "卯月（NGs）",
+        "id": 62,
+        "origin_star": 3
+    },
+    "凜（NGs）": {
+        "new_name": "凜（NGs）",
+        "name": "凜（NGs）",
+        "id": 63,
+        "origin_star": 3
+    },
+    "鈴（遊俠）": {
+        "new_name": "鈴（遊俠）",
+        "name": "鈴（遊俠）",
+        "id": 64,
+        "origin_star": 3
+    },
+    "真陽（遊俠）": {
+        "new_name": "真陽（遊俠）",
+        "name": "真陽（遊俠）",
+        "id": 65,
+        "origin_star": 3
+    },
+    "璃乃（奇幻）": {
+        "new_name": "璃乃（奇幻）",
+        "name": "璃乃（奇幻）",
+        "id": 66,
+        "origin_star": 3
+    },
+    "流夏（夏日）": {
+        "new_name": "流夏（夏日）",
+        "name": "流夏（夏日）",
+        "id": 67,
+        "origin_star": 3
+    },
+    "七七香（夏日）": {
+        "new_name": "七七香（夏日）",
+        "name": "七七香（夏日）",
+        "id": 68,
+        "origin_star": 3
+    },
+    "初音（夏日）": {
+        "new_name": "初音（夏日）",
+        "name": "初音（夏日）",
+        "id": 69,
+        "origin_star": 3
+    },
+    "純（夏日）": {
+        "new_name": "純（夏日）",
+        "name": "純（夏日）",
+        "id": 70,
+        "origin_star": 3
+    },
+    "茜里（天使）": {
+        "new_name": "茜里（天使）",
+        "name": "茜里（天使）",
+        "id": 71,
+        "origin_star": 3
+    },
+    "依里（天使）": {
+        "new_name": "依里（天使）",
+        "name": "依里（天使）",
+        "id": 72,
+        "origin_star": 3
+    },
+    "紡希（萬聖節）": {
+        "new_name": "紡希（萬聖節）",
+        "name": "紡希（萬聖節）",
+        "id": 73,
+        "origin_star": 3
+    },
+    "怜（萬聖節）": {
+        "new_name": "怜（萬聖節）",
+        "name": "怜（萬聖節）",
+        "id": 74,
+        "origin_star": 3
+    },
+    "莫妮卡（魔法少女）": {
+        "new_name": "莫妮卡（魔法少女）",
+        "name": "莫妮卡（魔法少女）",
+        "id": 75,
+        "origin_star": 3
+    },
+    "智（魔法少女）": {
+        "new_name": "智（魔法少女）",
+        "name": "智（魔法少女）",
+        "id": 76,
+        "origin_star": 3
+    },
+    "アキノ（クリスマス）": {
+        "new_name": "アキノ（クリスマス）",
+        "name": "アキノ（クリスマス）",
+        "id": 77,
+        "origin_star": 3
+    },
+    "サレン（クリスマス）": {
+        "new_name": "サレン（クリスマス）",
+        "name": "サレン（クリスマス）",
+        "id": 78,
+        "origin_star": 3
+    },
+    "ネネカ（ニューイヤー）": {
+        "new_name": "ネネカ（ニューイヤー）",
+        "name": "ネネカ（ニューイヤー）",
+        "id": 79,
+        "origin_star": 3
+    },
+    "コッコロ（儀装束）": {
+        "new_name": "コッコロ（儀装束）",
+        "name": "コッコロ（儀装束）",
+        "id": 80,
+        "origin_star": 3
+    },
+    "カスミ（サマー）": {
+        "new_name": "カスミ（サマー）",
+        "name": "カスミ（サマー）",
+        "id": 81,
+        "origin_star": 3
+    },
+    "マコト（シンデレラ）": {
+        "new_name": "マコト（シンデレラ）",
+        "name": "マコト（シンデレラ）",
+        "id": 82,
+        "origin_star": 3
+    },
+    "日和（公主）": {
+        "new_name": "日和（公主）",
+        "name": "日和（公主）",
+        "id": 83,
+        "origin_star": 3
+    },
+    "優衣（公主）": {
+        "new_name": "優衣（公主）",
+        "name": "優衣（公主）",
+        "id": 84,
+        "origin_star": 3
+    },
+    "貪吃佩可（公主）": {
+        "new_name": "貪吃佩可（公主）",
+        "name": "貪吃佩可（公主）",
+        "id": 85,
+        "origin_star": 3
+    },
+    "可可蘿（公主）": {
+        "new_name": "可可蘿（公主）",
+        "name": "可可蘿（公主）",
+        "id": 86,
+        "origin_star": 3
+    },
+    "キャル（プリンセス）": {
+        "new_name": "キャル（プリンセス）",
+        "name": "キャル（プリンセス）",
+        "id": 87,
+        "origin_star": 3
+    },
+    "环奈": {
+        "new_name": "环奈",
+        "name": "环奈",
+        "id": 88,
+        "origin_star": 3
+    },
+    "环奈（振袖）": {
+        "new_name": "环奈（振袖）",
+        "name": "环奈（振袖）",
+        "id": 89,
+        "origin_star": 3
+    },
+    "茉莉": {
+        "new_name": "茉莉",
+        "name": "茉莉",
+        "id": 90,
+        "origin_star": 2
+    },
+    "茜里": {
+        "new_name": "茜里",
+        "name": "茜里",
+        "id": 91,
+        "origin_star": 2
+    },
+    "宮子": {
+        "new_name": "宮子",
+        "name": "宮子",
+        "id": 92,
+        "origin_star": 2
+    },
+    "雪": {
+        "new_name": "雪",
+        "name": "雪",
+        "id": 93,
+        "origin_star": 2
+    },
+    "七七香": {
+        "new_name": "七七香",
+        "name": "七七香",
+        "id": 94,
+        "origin_star": 2
+    },
+    "美里": {
+        "new_name": "美里",
+        "name": "美里",
+        "id": 95,
+        "origin_star": 2
+    },
+    "鈴奈": {
+        "new_name": "鈴奈",
+        "name": "鈴奈",
+        "id": 96,
+        "origin_star": 2
+    },
+    "香織": {
+        "new_name": "香織",
+        "name": "香織",
+        "id": 97,
+        "origin_star": 2
+    },
+    "美美": {
+        "new_name": "美美",
+        "name": "美美",
+        "id": 98,
+        "origin_star": 2
+    },
+    "綾音": {
+        "new_name": "綾音",
+        "name": "綾音",
+        "id": 99,
+        "origin_star": 2
+    },
+    "鈴": {
+        "new_name": "鈴",
+        "name": "鈴",
+        "id": 100,
+        "origin_star": 2
+    },
+    "惠理子": {
+        "new_name": "惠理子",
+        "name": "惠理子",
+        "id": 101,
+        "origin_star": 2
+    },
+    "忍": {
+        "new_name": "忍",
+        "name": "忍",
+        "id": 102,
+        "origin_star": 2
+    },
+    "真陽": {
+        "new_name": "真陽",
+        "name": "真陽",
+        "id": 103,
+        "origin_star": 2
+    },
+    "栞": {
+        "new_name": "栞",
+        "name": "栞",
+        "id": 104,
+        "origin_star": 2
+    },
+    "千歌": {
+        "new_name": "千歌",
+        "name": "千歌",
+        "id": 105,
+        "origin_star": 2
+    },
+    "空花": {
+        "new_name": "空花",
+        "name": "空花",
+        "id": 106,
+        "origin_star": 2
+    },
+    "珠希": {
+        "new_name": "珠希",
+        "name": "珠希",
+        "id": 107,
+        "origin_star": 2
+    },
+    "美冬": {
+        "new_name": "美冬",
+        "name": "美冬",
+        "id": 108,
+        "origin_star": 2
+    },
+    "深月": {
+        "new_name": "深月",
+        "name": "深月",
+        "id": 109,
+        "origin_star": 2
+    },
+    "紡希": {
+        "new_name": "紡希",
+        "name": "紡希",
+        "id": 110,
+        "origin_star": 2
+    },
+    "日和": {
+        "new_name": "日和",
+        "name": "日和",
+        "id": 111,
+        "origin_star": 1
+    },
+    "優衣": {
+        "new_name": "優衣",
+        "name": "優衣",
+        "id": 112,
+        "origin_star": 1
+    },
+    "怜": {
+        "new_name": "怜",
+        "name": "怜",
+        "id": 113,
+        "origin_star": 1
+    },
+    "禊": {
+        "new_name": "禊",
+        "name": "禊",
+        "id": 114,
+        "origin_star": 1
+    },
+    "胡桃": {
+        "new_name": "胡桃",
+        "name": "胡桃",
+        "id": 115,
+        "origin_star": 1
+    },
+    "依里": {
+        "new_name": "依里",
+        "name": "依里",
+        "id": 116,
+        "origin_star": 1
+    },
+    "鈴莓": {
+        "new_name": "鈴莓",
+        "name": "鈴莓",
+        "id": 117,
+        "origin_star": 1
+    },
+    "優花梨": {
+        "new_name": "優花梨",
+        "name": "優花梨",
+        "id": 118,
+        "origin_star": 1
+    },
+    "碧": {
+        "new_name": "碧",
+        "name": "碧",
+        "id": 119,
+        "origin_star": 1
+    },
+    "美咲": {
+        "new_name": "美咲",
+        "name": "美咲",
+        "id": 120,
+        "origin_star": 1
+    },
+    "莉瑪": {
+        "new_name": "莉瑪",
+        "name": "莉瑪",
+        "id": 121,
+        "origin_star": 1
+    },
+    "步未": {
+        "new_name": "步未",
+        "name": "步未",
+        "id": 122,
+        "origin_star": 1
+    },
+    "貪吃佩可": {
+        "new_name": "貪吃佩可",
+        "name": "貪吃佩可",
+        "id": 123,
+        "origin_star": 1
+    },
+    "可可蘿": {
+        "new_name": "可可蘿",
+        "name": "可可蘿",
+        "id": 124,
+        "origin_star": 1
+    },
+    "凱留": {
+        "new_name": "凱留",
+        "name": "凱留",
+        "id": 125,
+        "origin_star": 1
+    },
+    "可可蘿（夏日）": {
+        "new_name": "可可蘿（夏日）",
+        "name": "可可蘿（夏日）",
+        "id": 126,
+        "origin_star": 1
+    },
+    "美冬（夏日）": {
+        "new_name": "美冬（夏日）",
+        "name": "美冬（夏日）",
+        "id": 127,
+        "origin_star": 1
+    },
+    "宮子（萬聖節）": {
+        "new_name": "宮子（萬聖節）",
+        "name": "宮子（萬聖節）",
+        "id": 128,
+        "origin_star": 1
+    },
+    "胡桃（聖誕節）": {
+        "new_name": "胡桃（聖誕節）",
+        "name": "胡桃（聖誕節）",
+        "id": 129,
+        "origin_star": 1
+    },
+    "怜（新年）": {
+        "new_name": "怜（新年）",
+        "name": "怜（新年）",
+        "id": 130,
+        "origin_star": 1
+    },
+    "惠理子（情人節）": {
+        "new_name": "惠理子（情人節）",
+        "name": "惠理子（情人節）",
+        "id": 131,
+        "origin_star": 1
+    },
+    "露": {
+        "new_name": "露",
+        "name": "露",
+        "id": 132,
+        "origin_star": 1
+    },
+    "拉姆": {
+        "new_name": "拉姆",
+        "name": "拉姆",
+        "id": 133,
+        "origin_star": 1
+    },
+    "伊緒（夏日）": {
+        "new_name": "伊緒（夏日）",
+        "name": "伊緒（夏日）",
+        "id": 134,
+        "origin_star": 1
+    },
+    "香織（夏日）": {
+        "new_name": "香織（夏日）",
+        "name": "香織（夏日）",
+        "id": 135,
+        "origin_star": 1
+    },
+    "禊（萬聖節）": {
+        "new_name": "禊（萬聖節）",
+        "name": "禊（萬聖節）",
+        "id": 136,
+        "origin_star": 1
+    },
+    "望（聖誕節）": {
+        "new_name": "望（聖誕節）",
+        "name": "望（聖誕節）",
+        "id": 137,
+        "origin_star": 1
+    },
+    "鈴莓（新年）": {
+        "new_name": "鈴莓（新年）",
+        "name": "鈴莓（新年）",
+        "id": 138,
+        "origin_star": 1
+    },
+    "栞（魔法少女）": {
+        "new_name": "栞（魔法少女）",
+        "name": "栞（魔法少女）",
+        "id": 139,
+        "origin_star": 1
+    },
+    "未央（NGs）": {
+        "new_name": "未央（NGs）",
+        "name": "未央（NGs）",
+        "id": 140,
+        "origin_star": 1
+    },
+    "步未（奇幻）": {
+        "new_name": "步未（奇幻）",
+        "name": "步未（奇幻）",
+        "id": 141,
+        "origin_star": 1
+    },
+    "杏奈（夏日）": {
+        "new_name": "杏奈（夏日）",
+        "name": "杏奈（夏日）",
+        "id": 142,
+        "origin_star": 1
+    },
+    "美里（夏日）": {
+        "new_name": "美里（夏日）",
+        "name": "美里（夏日）",
+        "id": 143,
+        "origin_star": 1
+    },
+    "茉莉（萬聖節）": {
+        "new_name": "茉莉（萬聖節）",
+        "name": "茉莉（萬聖節）",
+        "id": 144,
+        "origin_star": 1
+    },
+    "ユカリ（クリスマス）": {
+        "new_name": "ユカリ（クリスマス）",
+        "name": "ユカリ（クリスマス）",
+        "id": 145,
+        "origin_star": 1
+    },
+    "ムイミ（ニューイヤー）": {
+        "new_name": "ムイミ（ニューイヤー）",
+        "name": "ムイミ（ニューイヤー）",
+        "id": 146,
+        "origin_star": 1
+    },
+    "ユイ（儀装束）": {
+        "new_name": "ユイ（儀装束）",
+        "name": "ユイ（儀装束）",
+        "id": 147,
+        "origin_star": 1
+    },
+    "リマ（シンデレラ）": {
+        "new_name": "リマ（シンデレラ）",
+        "name": "リマ（シンデレラ）",
+        "id": 148,
+        "origin_star": 1
+    }
+}
